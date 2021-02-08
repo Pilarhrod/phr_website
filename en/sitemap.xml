@@ -3,44 +3,44 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://pilarhrod.github.io/phr_website/</loc>
+    <loc>https://pilarhrod.github.io/web/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://pilarhrod.github.io/phr_website/es/"
+                href="https://pilarhrod.github.io/web/es/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://pilarhrod.github.io/phr_website/"
+                href="https://pilarhrod.github.io/web/"
                 />
   </url>
   
   <url>
-    <loc>https://pilarhrod.github.io/phr_website/categories/</loc>
+    <loc>https://pilarhrod.github.io/web/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://pilarhrod.github.io/phr_website/es/categories/"
+                href="https://pilarhrod.github.io/web/es/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://pilarhrod.github.io/phr_website/categories/"
+                href="https://pilarhrod.github.io/web/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://pilarhrod.github.io/phr_website/tags/</loc>
+    <loc>https://pilarhrod.github.io/web/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://pilarhrod.github.io/phr_website/es/tags/"
+                href="https://pilarhrod.github.io/web/es/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://pilarhrod.github.io/phr_website/tags/"
+                href="https://pilarhrod.github.io/web/tags/"
                 />
   </url>
   
