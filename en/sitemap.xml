@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://pilarhrod.github.io/phr_website/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://pilarhrod.github.io/phr_website/es/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://pilarhrod.github.io/phr_website/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://pilarhrod.github.io/phr_website/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://pilarhrod.github.io/phr_website/es/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://pilarhrod.github.io/phr_website/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://pilarhrod.github.io/phr_website/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://pilarhrod.github.io/phr_website/es/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://pilarhrod.github.io/phr_website/tags/"
+                />
+  </url>
+  
+</urlset>
